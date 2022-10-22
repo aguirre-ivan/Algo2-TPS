@@ -1,6 +1,9 @@
 # Algoritmos y programacion II - 95.15
 Repositorio de trabajos prácticos de la materia [Algoritmos y Programacion II (FIUBA)](https://algoritmos-rw.github.io/algo2/), correspondiente a la cursada 2021.
 
+*ABB, Heap y TP3 realizados en conjunto con [Nicolas Llosas](https://github.com/nllosas).*
+
+
 ## Tipos de datos abstractos
 
 - [Vector dinámico](https://github.com/aguirre-ivan/algo2-tps/tree/main/vector)
